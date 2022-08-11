@@ -59,16 +59,16 @@
 # Related Video 
 ### Automation framework structure
 
-[![IMAGE ALT TEXT](/report_ss/p5.png)](https://www.loom.com/share/7f203db157864ad683714a6d8d34b6d5 "Video Title")
+[![IMAGE ALT TEXT](/report_ss/yt.png)](https://www.loom.com/share/7f203db157864ad683714a6d8d34b6d5 "Video Title")
 
 
 ### Run automation Test Cases
 
-[![IMAGE ALT TEXT](/report_ss/p5.png)](https://www.loom.com/share/1fb8aa70003a47af9b343a36ffb3a5b8 "Video Title")
+[![IMAGE ALT TEXT](/report_ss/yt.png)](https://www.loom.com/share/1fb8aa70003a47af9b343a36ffb3a5b8 "Video Title")
 
 ### Automation Test result view and analysis 
 
-[![IMAGE ALT TEXT](/report_ss/p5.png)](https://www.loom.com/share/5014a6f67ea843d4925ac7ce758219c9 "Video Title")
+[![IMAGE ALT TEXT](/report_ss/yt.png)](https://www.loom.com/share/5014a6f67ea843d4925ac7ce758219c9 "Video Title")
 
 
 
